@@ -1,0 +1,22 @@
+/* Created by: Angel
+* Created on: June 2024
+* This CSS file contains the styling for index.html
+* ICS20-Unit2-0-HTML-AreaPerimeter
+*/
+
+body { 
+  background-color: Crimson;
+}
+
+h1 { 
+  background-color: rgb(236, 236, 16);
+      color: hsl(145, 63%, 32%);
+      padding: 40px;
+      text-align: center;
+    }
+
+    p {
+      background-color: #fff700;
+    }
+  
+  
